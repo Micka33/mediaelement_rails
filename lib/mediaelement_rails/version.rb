@@ -1,3 +1,3 @@
 module MediaelementRails
-  VERSION = '0.6.1'
+  VERSION = '2.13.1.0'
 end

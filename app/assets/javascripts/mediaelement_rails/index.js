@@ -1,2 +1,2 @@
 //= require ./rails
-//= require ./mediaelement-and-player.min
+//= require ./mediaelement-and-player
